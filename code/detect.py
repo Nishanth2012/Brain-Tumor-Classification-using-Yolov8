@@ -51,7 +51,7 @@ if __name__ == '__main__':
     
     # Load trained YOLOv8 model
     model = YOLOv8()
-    model.load_state_dict(torch.load('../3_Model/best.pt'))
+    model.load_state_dict(torch.load('../model/best.pt'))
     
     # Calculate losses
     box_loss, class_loss, dfl_loss = calculate_losses(model, test_loader)

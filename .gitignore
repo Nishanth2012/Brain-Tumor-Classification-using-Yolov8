@@ -1,18 +1,18 @@
 # Report (kept off github)
-1_Final_Report/
+final_report/
 
 # Dataset images - download from Roboflow, keep only the config
-4_Dataset/brainTumor-2/
+dataset/brainTumor-2/
 
 # ESRGAN third-party clone - run: git clone https://github.com/xinntao/ESRGAN
-6_ESRGAN/
+esrgan/
 
 # Old versions, drafts, backups, unrelated files
 _Archive/
 
 # Base pretrained weights (ultralytics downloads these on its own)
-3_Model/yolov8n_pretrained.pt
-3_Model/yolov8s_pretrained.pt
+model/yolov8n_pretrained.pt
+model/yolov8s_pretrained.pt
 
 # Training runs get regenerated
 runs/

@@ -1,0 +1,802 @@
+Image,Box,Mask,Keypoints,Probs
+y701_jpg.rf.ad84140f43cfb4152c7338e34dd0d0ac.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.84750])
+data: tensor([[ 67.39868, 184.92931, 212.98300, 316.79782,   0.84750,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[140.19084, 250.86356, 145.58432, 131.86852]])
+xywhn: tensor([[0.21905, 0.39197, 0.22748, 0.20604]])
+xyxy: tensor([[ 67.39868, 184.92931, 212.98300, 316.79782]])
+xyxyn: tensor([[0.10531, 0.28895, 0.33279, 0.49500]])",,,
+y702_jpg.rf.741a59512c3ad09682abff9bcbb9c2bb.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.54685])
+data: tensor([[ 98.03078, 214.64513, 352.30325, 532.69434,   0.54685,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[225.16702, 373.66974, 254.27248, 318.04919]])
+xywhn: tensor([[0.35182, 0.58386, 0.39730, 0.49695]])
+xyxy: tensor([[ 98.03078, 214.64513, 352.30325, 532.69434]])
+xyxyn: tensor([[0.15317, 0.33538, 0.55047, 0.83233]])",,,
+y704_jpg.rf.25ef5f6133b75007df0f84c2e4db0d53.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.66358, 0.54559])
+data: tensor([[ 56.91412, 155.68895, 323.07352, 473.47955,   0.66358,   0.00000],
+        [144.58772, 351.53677, 275.56201, 443.45584,   0.54559,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[189.99382, 314.58426, 266.15939, 317.79059],
+        [210.07486, 397.49631, 130.97429,  91.91907]])
+xywhn: tensor([[0.29687, 0.49154, 0.41587, 0.49655],
+        [0.32824, 0.62109, 0.20465, 0.14362]])
+xyxy: tensor([[ 56.91412, 155.68895, 323.07352, 473.47955],
+        [144.58772, 351.53677, 275.56201, 443.45584]])
+xyxyn: tensor([[0.08893, 0.24326, 0.50480, 0.73981],
+        [0.22592, 0.54928, 0.43057, 0.69290]])",,,
+y705_jpg.rf.65686c813335f09cd5643611f3caddef.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.88476])
+data: tensor([[ 97.81629, 250.85828, 255.40953, 377.67172,   0.88476,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[176.61292, 314.26501, 157.59323, 126.81345]])
+xywhn: tensor([[0.27596, 0.49104, 0.24624, 0.19815]])
+xyxy: tensor([[ 97.81629, 250.85828, 255.40953, 377.67172]])
+xyxyn: tensor([[0.15284, 0.39197, 0.39908, 0.59011]])",,,
+y708_jpg.rf.4407cd7278c3d9f7a67cb642c04c5351.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.92561, 0.75022])
+data: tensor([[369.64926,  71.28967, 541.36157, 246.58266,   0.92561,   0.00000],
+        [455.93683, 105.35148, 533.31165, 171.85010,   0.75022,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[455.50543, 158.93616, 171.71231, 175.29298],
+        [494.62424, 138.60078,  77.37482,  66.49862]])
+xywhn: tensor([[0.71173, 0.24834, 0.26830, 0.27390],
+        [0.77285, 0.21656, 0.12090, 0.10390]])
+xyxy: tensor([[369.64926,  71.28967, 541.36157, 246.58266],
+        [455.93683, 105.35148, 533.31165, 171.85010]])
+xyxyn: tensor([[0.57758, 0.11139, 0.84588, 0.38529],
+        [0.71240, 0.16461, 0.83330, 0.26852]])",,,
+y712_jpg.rf.22b3bb2be545ecd9816edc323d7bf375.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.45009])
+data: tensor([[3.26429e+02, 1.51251e+02, 4.61576e+02, 2.24786e+02, 4.50087e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[394.00250, 188.01872, 135.14758,  73.53452]])
+xywhn: tensor([[0.61563, 0.29378, 0.21117, 0.11490]])
+xyxy: tensor([[326.42871, 151.25146, 461.57629, 224.78598]])
+xyxyn: tensor([[0.51004, 0.23633, 0.72121, 0.35123]])",,,
+y713_jpg.rf.8274fec7d472a7ea5c6537cfed76f37a.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.89484])
+data: tensor([[175.46614, 407.03433, 382.33649, 592.02875,   0.89484,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[278.90131, 499.53156, 206.87035, 184.99442]])
+xywhn: tensor([[0.43578, 0.78052, 0.32323, 0.28905]])
+xyxy: tensor([[175.46614, 407.03433, 382.33649, 592.02875]])
+xyxyn: tensor([[0.27417, 0.63599, 0.59740, 0.92504]])",,,
+y716_jpg.rf.dd6947580f1a2ccbfdd3ed5e85987e96.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.95249, 0.90173])
+data: tensor([[355.04431,  84.88567, 550.08514, 289.74005,   0.95249,   0.00000],
+        [175.26074, 158.79425, 269.29419, 252.50034,   0.90173,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[452.56473, 187.31287, 195.04083, 204.85439],
+        [222.27747, 205.64729,  94.03345,  93.70609]])
+xywhn: tensor([[0.70713, 0.29268, 0.30475, 0.32008],
+        [0.34731, 0.32132, 0.14693, 0.14642]])
+xyxy: tensor([[355.04431,  84.88567, 550.08514, 289.74005],
+        [175.26074, 158.79425, 269.29419, 252.50034]])
+xyxyn: tensor([[0.55476, 0.13263, 0.85951, 0.45272],
+        [0.27384, 0.24812, 0.42077, 0.39453]])",,,
+y718_jpg.rf.cd20cd8afb2cf92ec5666cc83046e05f.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.84680, 0.34309])
+data: tensor([[122.45284,  17.52930, 309.77670, 269.50516,   0.84680,   0.00000],
+        [229.52209,  59.76675, 309.18771, 142.71703,   0.34309,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[216.11478, 143.51723, 187.32387, 251.97586],
+        [269.35492, 101.24188,  79.66562,  82.95028]])
+xywhn: tensor([[0.33768, 0.22425, 0.29269, 0.39371],
+        [0.42087, 0.15819, 0.12448, 0.12961]])
+xyxy: tensor([[122.45284,  17.52930, 309.77670, 269.50516],
+        [229.52209,  59.76675, 309.18771, 142.71703]])
+xyxyn: tensor([[0.19133, 0.02739, 0.48403, 0.42110],
+        [0.35863, 0.09339, 0.48311, 0.22300]])",,,
+y719_jpg.rf.6c2458ce8f476a74e1616b17b0cf2d67.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([])
+conf: tensor([])
+data: tensor([], size=(0, 6))
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([0, 6])
+xywh: tensor([], size=(0, 4))
+xywhn: tensor([], size=(0, 4))
+xyxy: tensor([], size=(0, 4))
+xyxyn: tensor([], size=(0, 4))",,,
+y721_jpg.rf.4ae4c6dbc219f8be2fb752fbc96ff924.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.92462])
+data: tensor([[212.33763, 251.84258, 358.70151, 446.77933,   0.92462,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[285.51956, 349.31094, 146.36388, 194.93675]])
+xywhn: tensor([[0.44612, 0.54580, 0.22869, 0.30459]])
+xyxy: tensor([[212.33763, 251.84258, 358.70151, 446.77933]])
+xyxyn: tensor([[0.33178, 0.39350, 0.56047, 0.69809]])",,,
+y723_jpg.rf.033fe8c10797db9380fc57355562026a.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.94358])
+data: tensor([[110.85839, 332.40329, 336.86456, 577.19708,   0.94358,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[223.86148, 454.80017, 226.00616, 244.79379]])
+xywhn: tensor([[0.34978, 0.71063, 0.35313, 0.38249]])
+xyxy: tensor([[110.85839, 332.40329, 336.86456, 577.19708]])
+xyxyn: tensor([[0.17322, 0.51938, 0.52635, 0.90187]])",,,
+y724_jpg.rf.ce33070545e58952f3e40900b6326acc.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.76111])
+data: tensor([[208.53046, 200.89682, 521.07330, 504.43781,   0.76111,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[364.80188, 352.66730, 312.54285, 303.54099]])
+xywhn: tensor([[0.57000, 0.55104, 0.48835, 0.47428]])
+xyxy: tensor([[208.53046, 200.89682, 521.07330, 504.43781]])
+xyxyn: tensor([[0.32583, 0.31390, 0.81418, 0.78818]])",,,
+y725_jpg.rf.45d2f6af03e33b4e23aa9e1d23ef1a3e.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.90921])
+data: tensor([[ 61.63295, 144.12022, 257.83319, 400.02826,   0.90921,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[159.73308, 272.07425, 196.20024, 255.90804]])
+xywhn: tensor([[0.24958, 0.42512, 0.30656, 0.39986]])
+xyxy: tensor([[ 61.63295, 144.12022, 257.83319, 400.02826]])
+xyxyn: tensor([[0.09630, 0.22519, 0.40286, 0.62504]])",,,
+y726_jpg.rf.2dc657d199b5c5797365e1231e8e3189.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.82410])
+data: tensor([[ 71.50592, 250.11903, 251.19052, 456.26208,   0.82410,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[161.34822, 353.19055, 179.68460, 206.14305]])
+xywhn: tensor([[0.25211, 0.55186, 0.28076, 0.32210]])
+xyxy: tensor([[ 71.50592, 250.11903, 251.19052, 456.26208]])
+xyxyn: tensor([[0.11173, 0.39081, 0.39249, 0.71291]])",,,
+y727_jpg.rf.7ab308f45c243ae2fe159143b8aa57b4.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.95713])
+data: tensor([[126.20312,  76.31615, 308.67377, 325.90002,   0.95713,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[217.43845, 201.10809, 182.47064, 249.58386]])
+xywhn: tensor([[0.33975, 0.31423, 0.28511, 0.38997]])
+xyxy: tensor([[126.20312,  76.31615, 308.67377, 325.90002]])
+xyxyn: tensor([[0.19719, 0.11924, 0.48230, 0.50922]])",,,
+y728_jpg.rf.cbfeb747ab7104148bb0f8a01a6f9eb2.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.91469])
+data: tensor([[322.70630, 471.24896, 481.57562, 616.04706,   0.91469,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[402.14096, 543.64801, 158.86932, 144.79810]])
+xywhn: tensor([[0.62835, 0.84945, 0.24823, 0.22625]])
+xyxy: tensor([[322.70630, 471.24896, 481.57562, 616.04706]])
+xyxyn: tensor([[0.50423, 0.73633, 0.75246, 0.96257]])",,,
+y729_jpg.rf.25ff64716d4865d65506346326699e03.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.92212])
+data: tensor([[374.38071, 286.74503, 571.26282, 492.18265,   0.92212,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[472.82178, 389.46384, 196.88211, 205.43762]])
+xywhn: tensor([[0.73878, 0.60854, 0.30763, 0.32100]])
+xyxy: tensor([[374.38071, 286.74503, 571.26282, 492.18265]])
+xyxyn: tensor([[0.58497, 0.44804, 0.89260, 0.76904]])",,,
+y730_jpg.rf.c9da38887155cbb68df23c03fbbf138a.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.82656])
+data: tensor([[ 91.45003, 261.93158, 376.37964, 552.85687,   0.82656,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[233.91483, 407.39423, 284.92963, 290.92529]])
+xywhn: tensor([[0.36549, 0.63655, 0.44520, 0.45457]])
+xyxy: tensor([[ 91.45003, 261.93158, 376.37964, 552.85687]])
+xyxyn: tensor([[0.14289, 0.40927, 0.58809, 0.86384]])",,,
+y731_jpg.rf.b6c2049c8b0d6e051c755a3d197cef0f.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.78873])
+data: tensor([[303.26291,  75.21386, 547.14478, 345.05588,   0.78873,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[425.20386, 210.13487, 243.88187, 269.84201]])
+xywhn: tensor([[0.66438, 0.32834, 0.38107, 0.42163]])
+xyxy: tensor([[303.26291,  75.21386, 547.14478, 345.05588]])
+xyxyn: tensor([[0.47385, 0.11752, 0.85491, 0.53915]])",,,
+y733_jpg.rf.ca6c109440f5ce577439f62153d18415.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.49110])
+data: tensor([[223.07547, 165.11839, 434.08450, 327.73453,   0.49110,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[328.57999, 246.42645, 211.00903, 162.61613]])
+xywhn: tensor([[0.51341, 0.38504, 0.32970, 0.25409]])
+xyxy: tensor([[223.07547, 165.11839, 434.08450, 327.73453]])
+xyxyn: tensor([[0.34856, 0.25800, 0.67826, 0.51209]])",,,
+y738_jpg.rf.e42f2db2ec963f3e38452bb40bc6ac77.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.81758])
+data: tensor([[309.87854, 271.50992, 564.44708, 432.95639,   0.81758,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[437.16281, 352.23315, 254.56854, 161.44647]])
+xywhn: tensor([[0.68307, 0.55036, 0.39776, 0.25226]])
+xyxy: tensor([[309.87854, 271.50992, 564.44708, 432.95639]])
+xyxyn: tensor([[0.48419, 0.42423, 0.88195, 0.67649]])",,,
+y740_jpg.rf.691f24a14f512c9d618b185e094413a7.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.85074])
+data: tensor([[273.33823, 372.44595, 540.77069, 577.47388,   0.85074,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[407.05444, 474.95990, 267.43246, 205.02792]])
+xywhn: tensor([[0.63602, 0.74212, 0.41786, 0.32036]])
+xyxy: tensor([[273.33823, 372.44595, 540.77069, 577.47388]])
+xyxyn: tensor([[0.42709, 0.58195, 0.84495, 0.90230]])",,,
+y741_jpg.rf.c7d53ccaceb55148237c0355f7c740b5.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.79796])
+data: tensor([[309.38867, 150.72679, 520.33295, 460.48138,   0.79796,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[414.86081, 305.60410, 210.94427, 309.75458]])
+xywhn: tensor([[0.64822, 0.47751, 0.32960, 0.48399]])
+xyxy: tensor([[309.38867, 150.72679, 520.33295, 460.48138]])
+xyxyn: tensor([[0.48342, 0.23551, 0.81302, 0.71950]])",,,
+y742_jpg.rf.1f1a5e7a7196583b14e3c99d89a64b3c.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.96092])
+data: tensor([[120.84794, 335.45731, 322.64685, 572.63245,   0.96092,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[221.74739, 454.04486, 201.79892, 237.17514]])
+xywhn: tensor([[0.34648, 0.70945, 0.31531, 0.37059]])
+xyxy: tensor([[120.84794, 335.45731, 322.64685, 572.63245]])
+xyxyn: tensor([[0.18882, 0.52415, 0.50414, 0.89474]])",,,
+y743_jpg.rf.ba35439d0dbf4589614091d345c30d7b.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.87403])
+data: tensor([[384.33932, 331.33667, 474.56000, 437.72534,   0.87403,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[429.44965, 384.53101,  90.22067, 106.38867]])
+xywhn: tensor([[0.67102, 0.60083, 0.14097, 0.16623]])
+xyxy: tensor([[384.33932, 331.33667, 474.56000, 437.72534]])
+xyxyn: tensor([[0.60053, 0.51771, 0.74150, 0.68395]])",,,
+y744_jpg.rf.2c7cab6dc73aded05f982fe30416ec94.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.67195, 0.33846])
+data: tensor([[3.79042e+02, 1.99479e+02, 5.24405e+02, 4.12647e+02, 6.71946e-01, 0.00000e+00],
+        [3.82483e+02, 2.41804e+02, 5.01388e+02, 4.12190e+02, 3.38462e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[451.72330, 306.06284, 145.36298, 213.16840],
+        [441.93561, 326.99701, 118.90469, 170.38651]])
+xywhn: tensor([[0.70582, 0.47822, 0.22713, 0.33308],
+        [0.69052, 0.51093, 0.18579, 0.26623]])
+xyxy: tensor([[379.04181, 199.47864, 524.40479, 412.64703],
+        [382.48328, 241.80374, 501.38797, 412.19025]])
+xyxyn: tensor([[0.59225, 0.31169, 0.81938, 0.64476],
+        [0.59763, 0.37782, 0.78342, 0.64405]])",,,
+y748_jpg.rf.7beac188acf09acfc91e19ae49757b0a.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.90045, 0.85613])
+data: tensor([[372.55600,  75.71769, 507.75421, 234.15115,   0.90045,   0.00000],
+        [439.06491, 108.40664, 498.50116, 166.04333,   0.85613,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[440.15509, 154.93442, 135.19821, 158.43347],
+        [468.78302, 137.22499,  59.43625,  57.63670]])
+xywhn: tensor([[0.68774, 0.24209, 0.21125, 0.24755],
+        [0.73247, 0.21441, 0.09287, 0.09006]])
+xyxy: tensor([[372.55600,  75.71769, 507.75421, 234.15115],
+        [439.06491, 108.40664, 498.50116, 166.04333]])
+xyxyn: tensor([[0.58212, 0.11831, 0.79337, 0.36586],
+        [0.68604, 0.16939, 0.77891, 0.25944]])",,,
+y751_jpg.rf.9226ba31b5c5e15ad28a02d3e1c9e093.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.84155])
+data: tensor([[281.43451, 242.21547, 572.65143, 521.78650,   0.84155,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[427.04297, 382.00098, 291.21692, 279.57104]])
+xywhn: tensor([[0.66725, 0.59688, 0.45503, 0.43683]])
+xyxy: tensor([[281.43451, 242.21547, 572.65143, 521.78650]])
+xyxyn: tensor([[0.43974, 0.37846, 0.89477, 0.81529]])",,,
+y752_jpg.rf.be68ac93f500275030aa5084de742aeb.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.89099])
+data: tensor([[347.21164, 279.29840, 498.22546, 457.25320,   0.89099,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[422.71857, 368.27582, 151.01382, 177.95480]])
+xywhn: tensor([[0.66050, 0.57543, 0.23596, 0.27805]])
+xyxy: tensor([[347.21164, 279.29840, 498.22546, 457.25320]])
+xyxyn: tensor([[0.54252, 0.43640, 0.77848, 0.71446]])",,,
+y754_jpg.rf.e454cdec622ab180a8fe468b2e2b8ea1.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.64784, 0.36162])
+data: tensor([[2.21666e+02, 2.73516e+02, 3.22824e+02, 3.78182e+02, 6.47838e-01, 0.00000e+00],
+        [1.19909e+02, 2.72821e+02, 3.22206e+02, 3.78733e+02, 3.61616e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[272.24469, 325.84900, 101.15775, 104.66641],
+        [221.05725, 325.77716, 202.29674, 105.91168]])
+xywhn: tensor([[0.42538, 0.50914, 0.15806, 0.16354],
+        [0.34540, 0.50903, 0.31609, 0.16549]])
+xyxy: tensor([[221.66580, 273.51578, 322.82355, 378.18219],
+        [119.90889, 272.82132, 322.20563, 378.73300]])
+xyxyn: tensor([[0.34635, 0.42737, 0.50441, 0.59091],
+        [0.18736, 0.42628, 0.50345, 0.59177]])",,,
+y757_jpg.rf.304013b3f6ef66efe89a7560cbc5a5ae.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.92722, 0.75203])
+data: tensor([[376.07483,  74.93768, 544.33795, 254.97426,   0.92722,   0.00000],
+        [461.19473, 109.74725, 545.49548, 179.54909,   0.75203,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[460.20639, 164.95596, 168.26312, 180.03658],
+        [503.34509, 144.64816,  84.30075,  69.80184]])
+xywhn: tensor([[0.71907, 0.25774, 0.26291, 0.28131],
+        [0.78648, 0.22601, 0.13172, 0.10907]])
+xyxy: tensor([[376.07483,  74.93768, 544.33795, 254.97426],
+        [461.19473, 109.74725, 545.49548, 179.54909]])
+xyxyn: tensor([[0.58762, 0.11709, 0.85053, 0.39840],
+        [0.72062, 0.17148, 0.85234, 0.28055]])",,,
+y758_jpg.rf.8651f9a4630ba4a2c9ef6fc4eabffaa2.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.89754])
+data: tensor([[109.64478, 250.74988, 259.69620, 377.41086,   0.89754,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[184.67049, 314.08038, 150.05142, 126.66098]])
+xywhn: tensor([[0.28855, 0.49075, 0.23446, 0.19791]])
+xyxy: tensor([[109.64478, 250.74988, 259.69620, 377.41086]])
+xyxyn: tensor([[0.17132, 0.39180, 0.40578, 0.58970]])",,,
+y762_jpg.rf.d3a140c53f6dce0fde345dc165734519.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.82156])
+data: tensor([[300.27463, 212.80983, 546.26129, 529.77869,   0.82156,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[423.26794, 371.29425, 245.98666, 316.96887]])
+xywhn: tensor([[0.66136, 0.58015, 0.38435, 0.49526]])
+xyxy: tensor([[300.27463, 212.80983, 546.26129, 529.77869]])
+xyxyn: tensor([[0.46918, 0.33252, 0.85353, 0.82778]])",,,
+y763_jpg.rf.9a77e2dc348f0dd5c60c44051c88bf4b.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.76725])
+data: tensor([[126.64156, 285.82498, 352.35330, 538.52966,   0.76725,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[239.49744, 412.17731, 225.71173, 252.70468]])
+xywhn: tensor([[0.37421, 0.64403, 0.35267, 0.39485]])
+xyxy: tensor([[126.64156, 285.82498, 352.35330, 538.52966]])
+xyxyn: tensor([[0.19788, 0.44660, 0.55055, 0.84145]])",,,
+y767_jpg.rf.525eee5e3c04232c830d3f0743ae3cba.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.83251])
+data: tensor([[276.53583, 244.90211, 573.95325, 539.90631,   0.83251,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[425.24454, 392.40421, 297.41742, 295.00421]])
+xywhn: tensor([[0.66444, 0.61313, 0.46471, 0.46094]])
+xyxy: tensor([[276.53583, 244.90211, 573.95325, 539.90631]])
+xyxyn: tensor([[0.43209, 0.38266, 0.89680, 0.84360]])",,,
+y768_jpg.rf.cc673bf60bde2ac4df27ff4f0ba9e506.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.88227])
+data: tensor([[162.33130, 320.22067, 339.98038, 517.72961,   0.88227,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[251.15584, 418.97516, 177.64908, 197.50894]])
+xywhn: tensor([[0.39243, 0.65465, 0.27758, 0.30861]])
+xyxy: tensor([[162.33130, 320.22067, 339.98038, 517.72961]])
+xyxyn: tensor([[0.25364, 0.50034, 0.53122, 0.80895]])",,,
+y769_jpg.rf.6ef7fff4c2c1cfda26009b89271bcdbe.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.77168])
+data: tensor([[387.56454, 232.78136, 502.11627, 370.19202,   0.77168,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[444.84039, 301.48669, 114.55173, 137.41066]])
+xywhn: tensor([[0.69506, 0.47107, 0.17899, 0.21470]])
+xyxy: tensor([[387.56454, 232.78136, 502.11627, 370.19202]])
+xyxyn: tensor([[0.60557, 0.36372, 0.78456, 0.57843]])",,,
+y770_jpg.rf.9072b015ac94142996f16b20735b94cc.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.87132])
+data: tensor([[171.86105, 317.12973, 436.71289, 514.36432,   0.87132,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[304.28699, 415.74701, 264.85184, 197.23459]])
+xywhn: tensor([[0.47545, 0.64960, 0.41383, 0.30818]])
+xyxy: tensor([[171.86105, 317.12973, 436.71289, 514.36432]])
+xyxyn: tensor([[0.26853, 0.49552, 0.68236, 0.80369]])",,,
+y773_jpg.rf.44d76d9029d6ee05eaf1305cc9f84075.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.91418])
+data: tensor([[ 62.94269, 207.16034, 237.87270, 366.64310,   0.91418,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[150.40768, 286.90173, 174.93001, 159.48276]])
+xywhn: tensor([[0.23501, 0.44828, 0.27333, 0.24919]])
+xyxy: tensor([[ 62.94269, 207.16034, 237.87270, 366.64310]])
+xyxyn: tensor([[0.09835, 0.32369, 0.37168, 0.57288]])",,,
+y774_jpg.rf.95158d4c19a8890f7bfd08266fcf209d.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.63834, 0.26583])
+data: tensor([[1.73643e+02, 8.29854e+01, 2.98646e+02, 2.51309e+02, 6.38344e-01, 0.00000e+00],
+        [2.70577e+02, 2.24663e+02, 3.40244e+02, 2.96881e+02, 2.65834e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[236.14468, 167.14740, 125.00287, 168.32410],
+        [305.41046, 260.77197,  69.66617,  72.21852]])
+xywhn: tensor([[0.36898, 0.26117, 0.19532, 0.26301],
+        [0.47720, 0.40746, 0.10885, 0.11284]])
+xyxy: tensor([[173.64325,  82.98535, 298.64612, 251.30945],
+        [270.57739, 224.66270, 340.24356, 296.88123]])
+xyxyn: tensor([[0.27132, 0.12966, 0.46663, 0.39267],
+        [0.42278, 0.35104, 0.53163, 0.46388]])",,,
+y775_jpg.rf.6f5db8e8bb1fcedfa41671dd04a350a0.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.86283])
+data: tensor([[171.86105, 317.17734, 436.61157, 514.57135,   0.86283,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[304.23633, 415.87433, 264.75052, 197.39401]])
+xywhn: tensor([[0.47537, 0.64980, 0.41367, 0.30843]])
+xyxy: tensor([[171.86105, 317.17734, 436.61157, 514.57135]])
+xyxyn: tensor([[0.26853, 0.49559, 0.68221, 0.80402]])",,,
+y776_jpg.rf.396d6735178b0f106c33b7acdf6aa999.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.94840])
+data: tensor([[161.70396, 333.10474, 402.58463, 490.22086,   0.94840,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[282.14429, 411.66278, 240.88066, 157.11612]])
+xywhn: tensor([[0.44085, 0.64322, 0.37638, 0.24549]])
+xyxy: tensor([[161.70396, 333.10474, 402.58463, 490.22086]])
+xyxyn: tensor([[0.25266, 0.52048, 0.62904, 0.76597]])",,,
+y780_jpg.rf.13c6111f9a6dc63f34828c830e767b24.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.93844, 0.31640])
+data: tensor([[1.38255e+02, 3.31303e+02, 3.85781e+02, 5.66424e+02, 9.38439e-01, 0.00000e+00],
+        [2.03990e+02, 4.06740e+02, 3.60389e+02, 5.68207e+02, 3.16396e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[262.01776, 448.86331, 247.52628, 235.12079],
+        [282.18933, 487.47357, 156.39957, 161.46658]])
+xywhn: tensor([[0.40940, 0.70135, 0.38676, 0.36738],
+        [0.44092, 0.76168, 0.24437, 0.25229]])
+xyxy: tensor([[138.25461, 331.30292, 385.78088, 566.42371],
+        [203.98953, 406.74026, 360.38910, 568.20685]])
+xyxyn: tensor([[0.21602, 0.51766, 0.60278, 0.88504],
+        [0.31873, 0.63553, 0.56311, 0.88782]])",,,
+y781_jpg.rf.bd13e4914948d3a0410fc40774bb1be7.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.84658])
+data: tensor([[150.01512, 308.41431, 299.84598, 544.03259,   0.84658,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[224.93054, 426.22345, 149.83086, 235.61829]])
+xywhn: tensor([[0.35145, 0.66597, 0.23411, 0.36815]])
+xyxy: tensor([[150.01512, 308.41431, 299.84598, 544.03259]])
+xyxyn: tensor([[0.23440, 0.48190, 0.46851, 0.85005]])",,,
+y783_jpg.rf.06e9efc1ed085e8fef56c95d5e080776.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.84416, 0.71158])
+data: tensor([[ 85.78429, 382.05045, 308.78546, 556.37933,   0.84416,   0.00000],
+        [133.78227, 345.09412, 308.30698, 556.75024,   0.71158,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[197.28488, 469.21490, 223.00117, 174.32889],
+        [221.04462, 450.92218, 174.52470, 211.65613]])
+xywhn: tensor([[0.30826, 0.73315, 0.34844, 0.27239],
+        [0.34538, 0.70457, 0.27269, 0.33071]])
+xyxy: tensor([[ 85.78429, 382.05045, 308.78546, 556.37933],
+        [133.78227, 345.09412, 308.30698, 556.75024]])
+xyxyn: tensor([[0.13404, 0.59695, 0.48248, 0.86934],
+        [0.20903, 0.53921, 0.48173, 0.86992]])",,,
+y786_jpg.rf.395283262de8dde9d8dcec125ef05725.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0., 0.])
+conf: tensor([0.85139, 0.42345])
+data: tensor([[7.01657e+01, 2.77928e+02, 2.51856e+02, 4.54980e+02, 8.51393e-01, 0.00000e+00],
+        [7.29243e+01, 1.64890e+02, 2.50159e+02, 4.52068e+02, 4.23451e-01, 0.00000e+00]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([2, 6])
+xywh: tensor([[161.01086, 366.45386, 181.69034, 177.05179],
+        [161.54144, 308.47870, 177.23439, 287.17792]])
+xywhn: tensor([[0.25158, 0.57258, 0.28389, 0.27664],
+        [0.25241, 0.48200, 0.27693, 0.44872]])
+xyxy: tensor([[ 70.16570, 277.92795, 251.85603, 454.97974],
+        [ 72.92426, 164.88974, 250.15865, 452.06766]])
+xyxyn: tensor([[0.10963, 0.43426, 0.39353, 0.71091],
+        [0.11394, 0.25764, 0.39087, 0.70636]])",,,
+y787_jpg.rf.a056e8d0f483170941752fd633fc667f.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.92363])
+data: tensor([[294.80225, 402.11713, 485.35263, 580.09497,   0.92363,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[390.07745, 491.10605, 190.55038, 177.97784]])
+xywhn: tensor([[0.60950, 0.76735, 0.29773, 0.27809]])
+xyxy: tensor([[294.80225, 402.11713, 485.35263, 580.09497]])
+xyxyn: tensor([[0.46063, 0.62831, 0.75836, 0.90640]])",,,
+y788_jpg.rf.a264a44a0e34eef51d7bb3e20f1a2939.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.88388])
+data: tensor([[255.75996, 174.75203, 424.56241, 289.51834,   0.88388,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[340.16119, 232.13519, 168.80244, 114.76631]])
+xywhn: tensor([[0.53150, 0.36271, 0.26375, 0.17932]])
+xyxy: tensor([[255.75996, 174.75203, 424.56241, 289.51834]])
+xyxyn: tensor([[0.39962, 0.27305, 0.66338, 0.45237]])",,,
+y789_jpg.rf.7ae6f8ac96e02ea0f019c5d436dd8b69.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.91329])
+data: tensor([[195.81831, 114.41942, 348.95459, 266.28683,   0.91329,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[272.38644, 190.35312, 153.13628, 151.86742]])
+xywhn: tensor([[0.42560, 0.29743, 0.23928, 0.23729]])
+xyxy: tensor([[195.81831, 114.41942, 348.95459, 266.28683]])
+xyxyn: tensor([[0.30597, 0.17878, 0.54524, 0.41607]])",,,
+y790_jpg.rf.40e52464bdd57d60f869d037a724f776.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.88826])
+data: tensor([[ 39.97558, 240.42648, 249.20139, 396.94077,   0.88826,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[144.58849, 318.68362, 209.22580, 156.51428]])
+xywhn: tensor([[0.22592, 0.49794, 0.32692, 0.24455]])
+xyxy: tensor([[ 39.97558, 240.42648, 249.20139, 396.94077]])
+xyxyn: tensor([[0.06246, 0.37567, 0.38938, 0.62022]])",,,
+y791_jpg.rf.414c22e6f0a788515f3088f02f547979.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.92914])
+data: tensor([[291.96603, 326.15723, 495.30045, 489.21936,   0.92914,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[393.63324, 407.68829, 203.33441, 163.06213]])
+xywhn: tensor([[0.61505, 0.63701, 0.31771, 0.25478]])
+xyxy: tensor([[291.96603, 326.15723, 495.30045, 489.21936]])
+xyxyn: tensor([[0.45620, 0.50962, 0.77391, 0.76441]])",,,
+y794_jpg.rf.ce59dc410e6506704b4f78d9324d5820.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.80701])
+data: tensor([[ 93.07222, 350.15347, 294.43057, 592.16681,   0.80701,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[193.75140, 471.16016, 201.35835, 242.01334]])
+xywhn: tensor([[0.30274, 0.73619, 0.31462, 0.37815]])
+xyxy: tensor([[ 93.07222, 350.15347, 294.43057, 592.16681]])
+xyxyn: tensor([[0.14543, 0.54711, 0.46005, 0.92526]])",,,
+y795_jpg.rf.1e51600f15def054ce2c77ea4211bb51.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.69589])
+data: tensor([[328.30737, 188.83369, 434.78964, 315.51248,   0.69589,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[381.54852, 252.17310, 106.48227, 126.67879]])
+xywhn: tensor([[0.59617, 0.39402, 0.16638, 0.19794]])
+xyxy: tensor([[328.30737, 188.83369, 434.78964, 315.51248]])
+xyxyn: tensor([[0.51298, 0.29505, 0.67936, 0.49299]])",,,
+y796_jpg.rf.51b3859b9f1e2e276f30d292e29098e7.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.76955])
+data: tensor([[ 85.26823, 375.07938, 241.33736, 523.11707,   0.76955,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[163.30280, 449.09821, 156.06912, 148.03769]])
+xywhn: tensor([[0.25516, 0.70172, 0.24386, 0.23131]])
+xyxy: tensor([[ 85.26823, 375.07938, 241.33736, 523.11707]])
+xyxyn: tensor([[0.13323, 0.58606, 0.37709, 0.81737]])",,,
+y799_jpg.rf.a5c2b3b198b0c71b2eab243df30d453a.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.91034])
+data: tensor([[337.53430, 348.51862, 501.00787, 564.75000,   0.91034,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[419.27109, 456.63431, 163.47357, 216.23138]])
+xywhn: tensor([[0.65511, 0.71349, 0.25543, 0.33786]])
+xyxy: tensor([[337.53430, 348.51862, 501.00787, 564.75000]])
+xyxyn: tensor([[0.52740, 0.54456, 0.78282, 0.88242]])",,,
+y800_jpg.rf.6baeeae0a2284473e9f12b1fc5eb6f3e.jpg,"ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.74226])
+data: tensor([[382.69098, 276.57327, 520.61847, 397.31406,   0.74226,   0.00000]])
+id: None
+is_track: False
+orig_shape: (640, 640)
+shape: torch.Size([1, 6])
+xywh: tensor([[451.65472, 336.94366, 137.92749, 120.74078]])
+xywhn: tensor([[0.70571, 0.52647, 0.21551, 0.18866]])
+xyxy: tensor([[382.69098, 276.57327, 520.61847, 397.31406]])
+xyxyn: tensor([[0.59795, 0.43215, 0.81347, 0.62080]])",,,

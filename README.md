@@ -10,7 +10,7 @@ I collected the MRI images online and then annotated them myself in Roboflow, dr
 - 127 validation images
 - 57 test images
 
-The images are not in this repo, that would make it too big. I put the full annotated dataset in a separate repo: https://github.com/Nishanth2012/brain-tumor-mri-dataset — you can download it from there and point `data.yaml` at it. The notebook can also pull the data straight from Roboflow if you use your own API key.
+The images are not in this repo, that would make it too big. I put the full annotated dataset in a separate repo: https://github.com/Nishanth2012/brain-tumor-mri-dataset , you can download it from there and point `data.yaml` at it. The notebook can also pull the data straight from Roboflow if you use your own API key.
 
 ## Model
 
